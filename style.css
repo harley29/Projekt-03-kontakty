@@ -43,7 +43,7 @@ h1{
 
 
 
-@media  (min-width:540px) and (max-width:960px) {
+@media  (min-width:541px) and (max-width:960px) {
 	.tym{
 		display:flex;
 		flex-wrap:wrap;
@@ -56,6 +56,10 @@ h1{
 	    margin-bottom: 3%;
 		margin-right: 3%;
 			
+	}
+	.popis{
+		text-align: left;
+		
 	}
 		
 	}
